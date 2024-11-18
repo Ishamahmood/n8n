@@ -2,9 +2,9 @@
   "name": "n8n",
   "version": "1.0.0",
   "scripts": {
-    "start": "node start.js"
+    "start": "n8n"
   },
   "dependencies": {
-    "n8n": "^0.195.5"
+    "n8n": "^1.67.1"
   }
 }

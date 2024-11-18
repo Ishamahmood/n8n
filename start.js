@@ -1,1 +1,2 @@
-const { start } = require('n8n'); start();
+#!/usr/bin/env node
+require('n8n/bin/n8n');
